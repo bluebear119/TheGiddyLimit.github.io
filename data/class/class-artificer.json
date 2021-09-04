@@ -1829,18 +1829,18 @@
 			"classSource": "TCE",
 			"level": 1,
 			"entries": [
-				"At 1st level, you learn how to invest a spark of magic into mundane objects. To use this ability, you must have {@item thieves' tools|PHB} or {@item artisan's tools|PHB} in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:",
+				"在第1級，你將學習如何在平凡的物品中注入魔法的火花。要使用這個能力，你必須手持盜賊工具{@item thieves' tools|PHB}，或工匠工具{@item artisan's tools|PHB}。然後花費一個動作觸摸一個微小的非魔法物體，從以下魔法屬性中選擇一個賦予它:",
 				{
 					"type": "list",
 					"items": [
-						"The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.",
-						"Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.",
-						"The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.",
-						"A static visual effect appears on one of the object's surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like."
+						"該物體提供5尺半徑的明亮照明，以及該范圍外5尺范圍的微光照明。",
+						"無論何時，只要該物品被生物觸碰，就會發出可在10英呎外聽到的錄音信息。錄入的信息在你將此屬性賦予對象時決定，且時長不可超過6秒。",
+						"物品不斷地發出一種氣味或一種非語言的聲音（風聲、浪聲、鳥叫或類似的聲音）。這一現象最多能傳播10英呎遠。",
+						"一個靜態的視覺效果出現在物體的表面上。這個效果可以是一幅圖片，最多25個單詞的文本，線條和形狀，或者這些元素的混合，如你所願。"
 					]
 				},
-				"The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.",
-				"You can bestow magic on multiple objects, touching one object each time you use this feature, though a single object can only bear one property at a time. The maximum number of objects you can affect with this feature at one time is equal to your Intelligence modifier (minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies."
+				"所選的魔法屬性持續時間無限。你能夠以一個動作觸摸對象來消除這一魔法屬性。",
+				"你能夠通過此特性將魔力賦予多個物品，每次使用該特性時都需要觸摸一個物品，並且單個物品一次只能承載一種魔法屬性。你能夠使用該特性影響的物品的最大數量等於你的智力調整值（最少一個物品）。如果你試圖超過最大值，最老的魔法屬性將立即結束，然後新的魔法屬性生效。"
 			]
 		},
 		{
